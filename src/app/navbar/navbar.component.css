@@ -1,0 +1,13 @@
+.navbarStyle{
+    background: blue;
+    padding: 15px 10px;
+    margin: 0px;
+}
+
+.navbar-brand{
+    color: whitesmoke;
+    padding-left: 120px;
+}
+.navbar-nav .nav-link {
+    color: whitesmoke;
+}

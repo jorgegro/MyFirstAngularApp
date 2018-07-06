@@ -1,0 +1,10 @@
+.footerStyle{
+    background: goldenrod;
+    color: firebrick;
+    padding: auto;
+}
+.position{
+    position: fixed;
+    bottom: 0%;
+
+}
